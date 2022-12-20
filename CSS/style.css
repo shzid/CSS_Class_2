@@ -1,0 +1,34 @@
+.player{
+    width: 400px;
+    display: inline-block;
+    border: solid purple;
+    border-radius: 20px;
+    box-sizing: border-box;
+    font-family: arial, sans-serif;
+    height: 500px;
+    color: rgb(3, 255, 200);
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+}
+.messi{
+    background-image: url(../Image/Messi.jpg);
+    background-size: cover;
+}
+.cr7{
+    background-image: url(../Image/Ronaldo.jpg);
+    background-size: cover;
+}
+.neijr{
+    background-image: url(../Image/Neymar.jpg);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-image: url(../Image/Field.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
